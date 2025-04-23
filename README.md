@@ -1,4 +1,4 @@
-# tinyscripts
+# tiny-tools
 
 In here you'll find tiny scripts I created to automate some repetitive tasks.
 
